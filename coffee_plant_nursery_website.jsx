@@ -1,6 +1,6 @@
 import React from "react";
 
-const logoSrc = "/green-lanka-logo.png";
+const logoSrc = "./green-lanka-logo.png";
 
 function Icon({ type, className = "h-6 w-6" }) {
   const commonProps = {
